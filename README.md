@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JRGruhnert
 - 👀 I’m interested in AI, app and web development, IT-security and environmental informatics.
-- 🌱 I’m currently learning angular.
+- 🌱 I’m currently learning python, react.js and machine learning.
 - Nothing much to see her. My projects are mostly private and for personal research.
 
 <!---
